@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P4</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello, World!</string>
+    
+    <string name="splash_string">This is the splash screen. You could start a quiz by tapping the \'Start\' button.</string>
+    <string name="button_start">Start</string>
+    
+    <string name="title_activity_question">Question Activity</string>
+    <string name="question_content">This is the question content</string>
+    <string name="question_number">Question Number</string>
+    <string name="answer_first">answer 1</string>
+    <string name="answer_second">answer 2</string>
+    <string name="answer_third">answer 3</string>
+    <string name="answer_fourth">answer 4</string>
+    <string name="answer_fifth">answer 5</string>
+    
+    <string name="title_activity_statistics">StatisticsActivity</string>
+    <string name="attempted_questions_text">You attempted x questions.</string>
+    <string name="correct_questions_text">You got x questions right.</string>
+    <string name="total_questions_text">There were x total questions.</string>
+    
+    
+
+</resources>
